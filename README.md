@@ -11,3 +11,10 @@ those applications below the api 21 level from api levle 15 to api level 19.
 
 
 
+# Credits
+
+Android Typeface Helper
+
+Android SVG
+
+Carbon
